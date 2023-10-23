@@ -1,0 +1,8 @@
+<?php
+
+include '../../connect.php';
+
+
+getAllData("ordersview","orders_status != 0  AND orders_status != 4 ");
+
+?>
