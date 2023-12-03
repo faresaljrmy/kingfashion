@@ -1,7 +1,7 @@
 # kingfashion
 has 3 folder kingadmin ,king customer and king api
 # Tow App Ecommerce  For Customer And Admin
-###  ============================Customer App=============================
+###  Customer App
 <p float="left">
   <img src="customerimage/1.png" width="25%" />
   <img src="customerimage/2.png" width="25%" />
@@ -53,7 +53,7 @@ has 3 folder kingadmin ,king customer and king api
 </p>
 
 
-###  ============================Admin App==============================
+###  Admin App
 <p float="left">
   <img src="adminimage/1.png" width="25%" />
   <img src="adminimage/2.png" width="25%" />
