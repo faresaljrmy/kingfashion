@@ -3,9 +3,10 @@ has 3 folder kingadmin ,king customer and king api
 # Tow Apps E-commerce  For Customer And Admin
 ###  Customer App
 <p float="left">
-  <img src="customerimage/1.png" width="25%" />
+<!--   <img src="customerimage/1.png" width="25%" /> -->
   <img src="customerimage/2.png" width="25%" />
   <img src="customerimage/3.png" width="25%" />
+  <img src="customerimage/20.png" width="25%" />
  
 </p>
 <p float="left">
@@ -48,7 +49,7 @@ has 3 folder kingadmin ,king customer and king api
 
 <p float="left">
    <img src="customerimage/19.png" width="25%" />
-   <img src="customerimage/20.png" width="25%" />
+<!--    <img src="customerimage/20.png" width="25%" /> -->
    
 </p>
 
