@@ -1,6 +1,6 @@
 # kingfashion
 has 3 folder kingadmin ,king customer and king api
-# Full E-commerce Mobile App By Flutter Framework, It has a Customer App And Admin App
+# Full E-commerce Mobile App By Flutter Framework, It has a Customer App And Admin App And Rest Api with PHP 
 ###  Customer App
 <p float="left">
 <!--   <img src="customerimage/1.png" width="25%" /> -->
